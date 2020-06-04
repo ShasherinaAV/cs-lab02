@@ -17,6 +17,7 @@ int main()
     }
     else
     {
+
         cout<<"max = "<<b<< '\n';
     }
     if (a<b)
